@@ -1,3 +1,3 @@
 export interface Dog {
-    "message":string
+    message:string
 }
